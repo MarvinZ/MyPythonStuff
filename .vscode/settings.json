@@ -1,4 +1,5 @@
 {
     "kiroAgent.configureMCP": "Disabled",
-    "python.defaultInterpreterPath": "C:\\Program Files (x86)\\Python\\python.exe"
+    "python.defaultInterpreterPath": "C:\\Program Files (x86)\\Python\\python.exe",
+    "python-envs.defaultEnvManager": "ms-python.python:system"
 }
