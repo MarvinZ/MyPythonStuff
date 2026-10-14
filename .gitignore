@@ -1,0 +1,10 @@
+.env
+venv/
+.history/
+__pycache__/
+*.pyc
+Source.json
+Source2.json
+result.json
+result2.json
+*.pdf
